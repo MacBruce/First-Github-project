@@ -1,0 +1,74 @@
+body {
+  font-family: 'Playfair Display', serif;  
+  padding-top: 70px; 
+}
+
+header {
+    padding-bottom: 10px;
+}
+
+#inp-btn {
+    border-radius: 10%;
+}
+
+#jmb-btn {
+    border-radius: 10%;
+}
+
+p {
+  text-indent: 10px;  
+}
+
+#flRi {
+    float: right;
+    
+}
+
+#nonBlock {
+    display: inline;
+}
+
+
+
+#disNone {
+    display: none;
+    clear: both;
+    
+}
+
+#tog {
+    display: none;
+}
+
+.inline {
+    height: 20px;
+    width: 20px;
+    
+}
+
+.hr {
+    border-top: .5px solid black;
+    
+}
+
+.emphasis {
+    font-size: 2em;
+}
+
+.jumbotron {
+    border: 1px solid gray;
+}
+
+#ex {
+    display: inline;
+}
+
+.jumbotron {
+    background-image: url(images/mac7.jpg);
+}
+
+#suprise {
+    display: none;
+    color: red;
+    font-weight: 700;
+}
